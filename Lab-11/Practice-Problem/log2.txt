@@ -1,0 +1,4 @@
+INFO: File uploaded
+ERROR: File not found
+INFO: Server running
+ERROR: Network error

@@ -1,0 +1,3 @@
+INFO: Login successful
+INFO: Data saved
+WARNING: Low memory
