@@ -1,0 +1,5 @@
+========== MINIBANK REPORT ==========
+Total Accounts: 1
+
+Account Number: AC0001 | Owner: Rahul | Balance: Rs. 7000 | Interest: 4.0% | Active: true
+========== END OF REPORT ==========
